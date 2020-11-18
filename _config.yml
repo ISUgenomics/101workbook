@@ -20,7 +20,7 @@ title                    : "Geospatial Workbook"
 title_separator          : "-"
 name                     : ""
 description              : "Tutorial on Informatics for Geospatial Information"
-url                      : "https://geospatial.101workbook.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://101workbook.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "isugenomics/geospatialworkbook" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 permalink: none
