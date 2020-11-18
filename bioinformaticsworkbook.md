@@ -1,2 +1,5 @@
-title: My amazing post
-redirect_to: http://www.bioinformaticsworkbook.org
+---
+permalink: /bioinformaticsworkbook
+redirect_to:
+  - http://www.bioinformaticsworkbook.org
+---
