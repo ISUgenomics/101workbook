@@ -10,13 +10,13 @@ feature_row:
   - title: "Geospatial Workbook"
     image_path: /assets/images/alexander-sinn-KgLtFCgfC28-unsplash.jpg
     alt: "Programs"
-    url: www.geospatial.101workbook.org
+    canonical_url: "www.geospatial.101workbook.org"
     btn_label: "Learn More"
 
   - title: "Bioinformatics Workbook"
-    image_path: /assets/images/nasa-1lfI7wkGWZ4-unsplash.jpg
+    image_path: ""/assets/images/nasa-1lfI7wkGWZ4-unsplash.jpg"
     alt: "Programs2"
-    url: www.bioinformaticsworkbook.org
+    canonical_url: www.bioinformaticsworkbook.org
     btn_label: "Learn More"
 
 ---
@@ -25,3 +25,6 @@ feature_row:
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
+
+
+<!-- For more information about https://mmistakes.github.io/minimal-mistakes/docs/layouts/ -->
