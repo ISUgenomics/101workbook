@@ -2,5 +2,5 @@
 layout: redirected
 sitemap: false
 permalink: /bioinformaticsworkbook/
-redirect_to: /_pages/people.md
+redirect_to: people.html
 ---
