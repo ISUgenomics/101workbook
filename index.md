@@ -10,13 +10,13 @@ feature_row:
   - title: "Geospatial Workbook"
     image_path: /assets/images/alexander-sinn-KgLtFCgfC28-unsplash.jpg
     alt: "Programs"
-    url: "www.geospatial.101workbook.org"
+    url: www.geospatial.101workbook.org
     btn_label: "Learn More"
 
   - title: "Bioinformatics Workbook"
     image_path: /assets/images/nasa-1lfI7wkGWZ4-unsplash.jpg
     alt: "Programs2"
-    url: "www.bioinformaticsworkbook.org"
+    url: www.bioinformaticsworkbook.org
     btn_label: "Learn More"
 
 ---
