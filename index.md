@@ -16,7 +16,7 @@ feature_row:
   - title: "Bioinformatics Workbook"
     image_path: "/assets/images/nasa-1lfI7wkGWZ4-unsplash.jpg"
     alt: "Bioinformatics Workbook"
-    url: "www.bioinformaticsworkbook.org"
+    url: "bioinformaticsworkbook"
 
 
 ---
