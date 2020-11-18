@@ -10,7 +10,7 @@ feature_row:
   - title: "Geospatial Workbook"
     image_path: /assets/images/alexander-sinn-KgLtFCgfC28-unsplash.jpg
     alt: "Geospatial Workbook"
-    url: "www.geospatial.101workbook.org"
+    canonical_url: "www.geospatial.101workbook.org"
 
 
   - title: "Bioinformatics Workbook"
