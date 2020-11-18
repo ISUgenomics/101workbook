@@ -1,6 +1,2 @@
----
-layout: redirected
-sitemap: false
-permalink: /bioinformaticsworkbook/
-redirect_to: people.html
----
+title: My amazing post
+redirect_to: http://www.bioinformaticsworkbook.org
