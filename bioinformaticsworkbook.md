@@ -2,5 +2,5 @@
 layout: redirected
 sitemap: false
 permalink: /bioinformaticsworkbook/
-redirect_to:  www.bioinformaticsworkbook.org
+redirect_to:  test
 ---
