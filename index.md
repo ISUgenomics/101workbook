@@ -4,7 +4,7 @@ permalink: /
 header:
   overlay_color: "444444"
   overlay_image: /assets/images/margaret-weir-GZyjbLNOaFg-unsplash_dark.jpg
-excerpt: 'Democratizing geospatial analysis through practical tutorials'
+excerpt: 'Democratizing data analysis through practical workbook tutorials'
 feature_row:
 
   - title: "Geospatial Workbook"
