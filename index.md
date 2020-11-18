@@ -14,9 +14,9 @@ feature_row:
     btn_label: "Learn More"
 
   - title: "Bioinformatics Workbook"
-    image_path: ""/assets/images/nasa-1lfI7wkGWZ4-unsplash.jpg"
+    image_path: "/assets/images/nasa-1lfI7wkGWZ4-unsplash.jpg"
     alt: "Programs2"
-    canonical_url: www.bioinformaticsworkbook.org
+    canonical_url: "www.bioinformaticsworkbook.org"
     btn_label: "Learn More"
 
 ---
