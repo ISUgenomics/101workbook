@@ -1,6 +1,6 @@
 ---
 layout: redirected
 sitemap: false
-permalink: /oldlocation/
+permalink: /bioinformaticsworkbook/
 redirect_to:  www.bioinformaticsworkbook.org
 ---
