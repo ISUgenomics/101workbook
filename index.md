@@ -7,16 +7,18 @@ header:
 excerpt: 'Democratizing data analysis through practical workbook tutorials'
 feature_row:
 
+  - title: "Bioinformatics Workbook"
+    image_path: "/assets/images/alexander-sinn-KgLtFCgfC28-unsplash.jpg"
+    alt: "Bioinformatics Workbook"
+    url: "bioinformaticsworkbook"
+
   - title: "Geospatial Workbook"
     image_path: /assets/images/nasa-1lfI7wkGWZ4-unsplash.jpg
     alt: "Geospatial Workbook"
     url: "geospatialworkbook"
 
 
-  - title: "Bioinformatics Workbook"
-    image_path: "/assets/images/alexander-sinn-KgLtFCgfC28-unsplash.jpg"
-    alt: "Bioinformatics Workbook"
-    url: "bioinformaticsworkbook"
+
 
 
 ---
