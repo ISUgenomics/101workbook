@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "101 Tutorials"
+title                    : "101 Workbook"
 title_separator          : "-"
 name                     : ""
 description              : "Workbooks that provide the 101 on different subjects"
@@ -59,9 +59,9 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : true # true, false (default)
-search_full_content      : true # true, false (default)
-search_provider          : google #lunr (default), algolia, google
+search                   : false # true, false (default)
+search_full_content      : false #true # true, false (default)
+search_provider          : #google #lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
