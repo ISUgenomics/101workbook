@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 header:
   overlay_color: "444444"
-  overlay_image: /assets/images/Natalia-Y-e88458466c33-unsplash-Ysm.jpg
+  overlay_image: /assets/images/Natalia-Y-e88458466c33-unsplash-Ysm.png
 excerpt: 'Democratizing data analysis through practical workbook tutorials'
 feature_row:
 
