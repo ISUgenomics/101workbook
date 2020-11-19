@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 header:
   overlay_color: "444444"
-  overlay_image: /assets/images/margaret-weir-GZyjbLNOaFg-unsplash_dark.jpg
+  overlay_image: /assets/images/jonathan_borba-2b71a8a5ff78-unsplash.jpg
 excerpt: 'Democratizing data analysis through practical workbook tutorials'
 feature_row:
 

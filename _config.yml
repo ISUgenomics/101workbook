@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Geospatial Workbook"
+title                    : "101 Tutorials"
 title_separator          : "-"
 name                     : ""
-description              : "Tutorial on Informatics for Geospatial Information"
+description              : "Workbooks that provide the 101 on different subjects"
 url                      : "https://isugenomics.github.io/"
 baseurl                  : "101workbook" # the subpath of your site, e.g. "/blog"
 repository               : "isugenomics/101workbook" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -68,7 +68,7 @@ algolia:
   search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : # true (default), false
 google:
-  search_engine_id       : 009853197685285203469:nsvri1pa88d
+  search_engine_id       : #  009853197685285203469:nsvri1pa88d
   instant_search         : # false (default), true
 # SEO Related
 google_site_verification :
@@ -101,9 +101,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : google # false (default), "google", "google-universal", "custom"
+  provider               : false # google # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : UA-152061762-1
+    tracking_id          : # UA-152061762-1
     anonymize_ip         : # true, false (default)
 
 
