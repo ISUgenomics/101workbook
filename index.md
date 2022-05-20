@@ -17,6 +17,11 @@ feature_row:
     alt: "Geospatial Workbook"
     url: "geospatialworkbook"
 
+  - title: "Data Science Workbook"
+    image_path: /assets/images/nasa-1lfI7wkGWZ4-unsplash.jpg
+    alt: "Data Science Workbook"
+    url: "datascienceworkbook"
+
 
 
 
