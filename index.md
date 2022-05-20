@@ -7,6 +7,11 @@ header:
 excerpt: 'Democratizing data analysis through practical workbook tutorials'
 feature_row:
 
+  - title: "Data Science Workbook"
+    image_path: "/assets/images/datascience_workbook_banner.png"
+    alt: "Data Science Workbook"
+    url: "datascienceworkbook"
+
   - title: "Bioinformatics Workbook"
     image_path: "/assets/images/bioinformatics_workbook_banner.png"
     alt: "Bioinformatics Workbook"
@@ -17,10 +22,7 @@ feature_row:
     alt: "Geospatial Workbook"
     url: "geospatialworkbook"
 
-  - title: "Data Science Workbook"
-    image_path: "/assets/images/datascience_workbook_banner.png"
-    alt: "Data Science Workbook"
-    url: "datascienceworkbook"
+
 
 
 
